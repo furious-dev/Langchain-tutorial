@@ -7,4 +7,9 @@ This Repository contains notebooks for small real time applications using LangCh
 https://medium.com/@akash-modi/llm-powered-search-application-with-ollama-langchain-ebd1cb613636
 
 ## Logical Reasoning with ReAct Agent from Scratch in Python: A Beginner's Guide - [Notebook](https://github.com/furious-dev/Langchain-tutorial/blob/main/agents_from_scratch.ipynb)
+https://medium.com/@akash-modi/logical-reasoning-with-react-agent-from-scratch-in-python-part-1-60bda6b182af
+
+## Data Query & Visualisation using LLM Agents from Scratch - [Notebook](https://github.com/furious-dev/Langchain-tutorial/blob/main/analyze_data.ipynb)
+
+
 
